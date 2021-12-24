@@ -1,0 +1,42 @@
+.user {
+  margin: 30px;
+}
+.userImage {
+  border-radius: 50%;
+  margin-top: 10px;
+  width: 150px;
+  height: 150px;
+}
+.userName {
+  display: block;
+  font-size: 20px;
+  font-weight: 500;
+}
+span{
+    font-weight: 500;
+}
+.userButton{
+    padding: 10px;
+    color:black ;
+    font-size: 15px;
+    font-weight: 400;
+    border-radius: 10px;
+    background-color:red;
+}
+.userFollower {
+  display: inline-block;
+}
+.userFollowerImg {
+  border-radius: 50%;
+  margin-top: 10px;
+  width: 150px;
+  height: 150px;
+}
+.userFollowerdiv {
+  display: block;
+}
+.userFollowerName {
+  font-size: 20px;
+  font-weight: 500;
+  display: block;
+}
